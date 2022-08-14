@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=A-sy-coding&fontSize=90&fontAlignY=40)
 
-<h3 align="center"> 👋 Hi there 👋 </h3>
+<h3 align="center"> 👋 Hi! 👋 </h3>
 <p align="center">
 I'm AN Sang Yeoung, a growing developer. 🌱 <br>
 </p>
